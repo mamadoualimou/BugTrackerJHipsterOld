@@ -278,3 +278,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Angular CLI]: https://cli.angular.io/
 
 # BugTrackerJHipster
+
+# BugTrackerJHipster
